@@ -6,13 +6,8 @@ function App() {
     <S.Container>
       <Header />
       <Button crazy> sasdasd</Button>
-      <h2>amoss vc</h2>
-      <p>
-        sdsd<span>spanspan</span>
-      </p>
-      <p>sdsds</p>
-      <p>sdsds</p>
-      <p>sdsds</p>
+      <h1>s</h1>
+      <h1>ssss</h1>
     </S.Container>
   );
 }
