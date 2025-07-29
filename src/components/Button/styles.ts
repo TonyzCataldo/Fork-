@@ -5,7 +5,8 @@ type StyledButtonProps = {
 };
 
 export const Button = styled.button<StyledButtonProps>`
-  padding: ${(props) => props.theme.spacing["super-bantam"]}
+  padding: ${(props) => props.theme.spacing["super-bantam"]};
+  width: 100%;
   color: ${(props) => props.theme.colors["neutral-600"]};
   background-color: ${(props) => props.theme.colors["pastel-red"]};
   font-size: 1rem;
