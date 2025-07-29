@@ -6,9 +6,6 @@ function App() {
     <S.Container>
       <Header />
       <Button crazy> sasdasd</Button>
-      <h2>amoss vc</h2>
-      <input></input>
-      <div>divlegal</div>
       <Button crazy> fodase</Button>
     </S.Container>
   );
