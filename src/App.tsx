@@ -7,7 +7,9 @@ function App() {
       <Header />
       <Button crazy> sasdasd</Button>
       <h2>amoss vc</h2>
-      <p>sdsd</p>
+      <p>
+        sdsd<span>spanspan</span>
+      </p>
       <p>sdsds</p>
       <p>sdsds</p>
       <p>sdsds</p>
