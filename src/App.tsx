@@ -6,6 +6,7 @@ function App() {
     <S.Container>
       <Header />
       <Button crazy> sasdasd</Button>
+      <Button crazy> fodase</Button>
     </S.Container>
   );
 }
