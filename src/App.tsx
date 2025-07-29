@@ -7,10 +7,8 @@ function App() {
       <Header />
       <Button crazy> sasdasd</Button>
       <h2>amoss vc</h2>
-      <p>sdsd</p>
-      <p>sdsds</p>
-      <p>sdsds</p>
-      <p>sdsds</p>
+      <input></input>
+      <div>divlegal</div>
     </S.Container>
   );
 }
